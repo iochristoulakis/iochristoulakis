@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Iosif Christoulakis
 
-<!--
-**iochristoulakis/iochristoulakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Athens University of Economics and Business  
+💻 Passionate about **Software Development, Web Development, and Mobile Development**  
+🚀 Currently seeking an **internship opportunity** to apply my skills in real-world projects  
 
-Here are some ideas to get you started:
+## 📌 Projects
+- [BookHub](#) – Android app for room reservations (Java, Android Studio, Git)  
+- [ParkHub](#) – Android app for parking reservations (Java, UML, Anddroid Studio)  
+- [ThriveOn](#) – Self-improvement mobile app with Firebase & AI goal recommendations(Kotlin, Android Studo, Firebase)  
+- [AUEB Theatre](#) – Web app for theatre event management (Kotlin, Android Studio)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/iosif-christoulakis/)  
+- [Email](mailto:iochristoulakis@gmail.com)  
